@@ -1,7 +1,7 @@
 # HRV
-DIY Heat Recovery Ventilator
-{Made in Fusion 360}
-{Materials:}
+DIY Heat Recovery Ventilator <br />
+Made in Fusion 360 <br />
+Materials:
 1. 3d printed pieces
 2. 6 inch Polycarbonate tube
 3. 4 inch duct fittings
